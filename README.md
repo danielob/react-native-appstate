@@ -1,6 +1,6 @@
 # react-native-appstate
 
-![Build](https://github.com/%REPOSITORY%/workflows/Pre%20Merge%20Checks/badge.svg)
+![Build](https://github.com/danielob/react-native-appstate/workflows/Pre%20Merge%20Checks/badge.svg)
 
 This is your new React Native Reproducer project.
 
